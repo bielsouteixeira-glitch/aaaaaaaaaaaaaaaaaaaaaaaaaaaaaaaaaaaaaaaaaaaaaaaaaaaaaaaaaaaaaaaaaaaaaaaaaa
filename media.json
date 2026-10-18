@@ -1,0 +1,26 @@
+{
+  "logo": {
+    "principal": { "src": "/assets/logo/logo-lu-correa.png", "alt": "Lu Corrêa Animal Care", "width": 1001, "height": 442 },
+    "fundoBranco": { "src": "/assets/logo/logo-lu-correa-fundo-branco.jpg", "alt": "Lu Corrêa Animal Care", "width": 1001, "height": 442 },
+    "icone": { "src": "/assets/logo/icone-512.png", "alt": "Ícone Lu Corrêa Animal Care", "width": 512, "height": 512 },
+    "appleTouch": { "src": "/assets/logo/apple-touch-icon.png", "alt": "", "width": 180, "height": 180 },
+    "favicon": { "src": "/assets/logo/favicon-32.png", "alt": "", "width": 32, "height": 32 }
+  },
+  "imagens": [
+    { "id": "hero", "src": "/assets/images/lu-retrato-com-bulldog.jpg", "alt": "Luciana Corrêa, médica veterinária, de jaleco vinho e estetoscópio, ao lado de um bulldog francês sorridente", "width": 1440, "height": 1800, "objectPosition": "50% 25%", "uso": "Hero (retrato olhando para a câmera)" },
+    { "id": "sobre", "src": "/assets/images/lu-e-bulldog-carinho.jpg", "alt": "Luciana Corrêa sorrindo enquanto um bulldog francês apoia a pata em sua mão", "width": 807, "height": 1212, "objectPosition": "50% 60%", "uso": "Seção Sobre" },
+    { "id": "retrato-estetoscopio", "src": "/assets/images/lu-retrato-estetoscopio.jpg", "alt": "Retrato de Luciana Corrêa, médica veterinária, segurando o estetoscópio", "width": 1440, "height": 1920, "objectPosition": "50% 20%", "uso": "Sobre / Galeria" },
+    { "id": "examinando-bulldog", "src": "/assets/images/lu-examinando-bulldog.jpg", "alt": "Luciana Corrêa examinando um bulldog francês com estetoscópio", "width": 1440, "height": 1920, "objectPosition": "50% 30%", "uso": "Galeria / Serviços" },
+    { "id": "cachorro-preto", "src": "/assets/images/lu-com-cachorro-preto.jpg", "alt": "Luciana Corrêa auscultando com carinho um cachorro preto idoso", "width": 1440, "height": 1800, "objectPosition": "50% 40%", "uso": "Galeria (destaque: cuidado com cães idosos)" },
+    { "id": "pastor-alemao", "src": "/assets/images/lu-com-pastor-alemao.jpg", "alt": "Luciana Corrêa de uniforme colorido ao lado de um cachorro caramelo sentado", "width": 1440, "height": 1800, "objectPosition": "50% 50%", "uso": "Galeria" },
+    { "id": "bulldog-detalhe", "src": "/assets/images/bulldog-detalhe.jpg", "alt": "Bulldog francês sendo examinado com estetoscópio", "width": 1440, "height": 1919, "objectPosition": "50% 30%", "uso": "Serviços / Galeria" },
+    { "id": "retrato-sereno", "src": "/assets/images/lu-retrato-sereno.jpg", "alt": "Retrato de Luciana Corrêa, médica veterinária, com o estetoscópio no pescoço", "width": 763, "height": 1146, "objectPosition": "50% 25%", "uso": "Opcional (resolução menor, 763x1146)" }
+  ],
+  "videos": [
+    { "id": "atendimento-01", "src": "/assets/videos/atendimento-01.mp4", "poster": "/assets/videos/atendimento-01-poster.jpg", "width": 720, "height": 1280 },
+    { "id": "atendimento-02", "src": "/assets/videos/atendimento-02.mp4", "poster": "/assets/videos/atendimento-02-poster.jpg", "width": 720, "height": 1280 },
+    { "id": "atendimento-03", "src": "/assets/videos/atendimento-03.mp4", "poster": "/assets/videos/atendimento-03-poster.jpg", "width": 720, "height": 1280 },
+    { "id": "atendimento-04", "src": "/assets/videos/atendimento-04.mp4", "poster": "/assets/videos/atendimento-04-poster.jpg", "width": 720, "height": 1280 },
+    { "id": "atendimento-05", "src": "/assets/videos/atendimento-05.mp4", "poster": "/assets/videos/atendimento-05-poster.jpg", "width": 720, "height": 1280 }
+  ]
+}
