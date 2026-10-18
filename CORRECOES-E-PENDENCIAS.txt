@@ -1,0 +1,25 @@
+CORRECOES REALIZADAS
+
+1. A estrutura do App Router foi movida de src/app para app/ na raiz do projeto, para tornar explícita a localização esperada pelo build da Vercel e evitar a mensagem de ausência de app/pages.
+2. O restante do código e o design foram preservados.
+
+PENDÊNCIA IMPORTANTE: AS FOTOS E VÍDEOS ORIGINAIS NÃO ESTAVAM NO ZIP RECEBIDO.
+
+Foram encontrados caminhos esperados no código, mas não os arquivos reais em public/assets, incluindo:
+- public/assets/images/lucy-portrait.jpg
+- public/assets/images/lucy-dog1.jpg
+- public/assets/images/lucy-dog2.jpg
+- public/assets/images/additional.jpg
+- public/assets/images/og-image.jpg
+- public/assets/logo/lu-correa-animal-care-logo.png
+- public/assets/videos/care.mp4
+- public/assets/videos/vaccine.mp4
+- public/assets/posters/care-poster.jpg
+- public/assets/posters/vaccine-poster.jpg
+- public/icon.png
+- public/apple-icon.png
+- public/favicon-32.png
+
+Não criei fotos genéricas para substituir as originais. Para o site exibir as fotografias reais, esses arquivos precisam ser recuperados do projeto/Drive original e incluídos nos diretórios acima (ou os caminhos do código devem ser ajustados aos arquivos reais disponíveis).
+
+VALIDAÇÃO: o ZIP foi inspecionado e a estrutura foi corrigida. Não foi possível concluir o build nesta sessão; portanto, não há confirmação de build bem-sucedido nem de deploy publicado.
